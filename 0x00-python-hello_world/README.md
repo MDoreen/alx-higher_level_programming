@@ -1,1 +1,1 @@
-This is a readme file for "Hello World" programs written in Python
+This is a readme file for "python-hello_world" programs.
