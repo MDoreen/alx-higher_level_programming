@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 # 2.args.py
 # MDoreen
-f __name__ == "__main__":
+
+if __name__ == "__main__":
     import sys
     i = len(sys.argv) - 1
 
