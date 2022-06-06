@@ -4,8 +4,13 @@
 # list at a specific position (like in C)
 
 def replace_in_list(my_list, idx, element):
-    if idx < 0 or len(my_list) < idx:
+    if idx < 0:
+        return(my_list)
+
+    lenght = len(my_list)
+    if idx > lenght 0:
         return (my_list)
 
     my_list[idx] = element
+
     return (my_list)
