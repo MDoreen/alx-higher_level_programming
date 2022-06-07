@@ -21,6 +21,9 @@ def add_tuple(tuple_a=(), tuple_b=()):
         b1 = 0
     elif size_b == 1:
         b0 = tuple_b[0]
+        b1 =0
+    else:
+        b0 = tuple_b[0]
         bi = tuple_b[1]
 
         new_tuple = (a0 + bo, a1 + b1)
