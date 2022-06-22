@@ -1,8 +1,5 @@
-#!/bin/bash/python3
-# 0-square.py
-
-"""A class Square that defines a square. """
-
-
+#!/usr/bin/python3
 class Square:
+    """A class Square that defines a square.
+    """
     pass
