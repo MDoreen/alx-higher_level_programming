@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+# 0-square.py
+# MDoreen
+"""Define a class Square."""
+
+
 class Square:
-    """A class Square that defines a square.
-    """
+    """Represent a square."""
     pass
